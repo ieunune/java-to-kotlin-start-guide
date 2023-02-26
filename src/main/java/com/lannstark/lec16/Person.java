@@ -21,7 +21,7 @@ public class Person {
   }
 
   public int nextYearAge() {
-    System.out.println("멤버 함수");
+    System.out.println("member fun");
     return this.age + 1;
   }
 
